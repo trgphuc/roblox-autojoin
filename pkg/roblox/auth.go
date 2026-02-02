@@ -8,7 +8,6 @@ import (
     "net/url"
     "regexp"
     "strconv"
-    "strings"
 )
 
 type VipLinkData struct {

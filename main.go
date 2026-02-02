@@ -6,8 +6,8 @@ import (
     "strings"
     "time"
 
-    "github.com/yourusername/roblox-autojoin/pkg/account"
-    "github.com/yourusername/roblox-autojoin/pkg/roblox"
+    "github.com/trgphuc/roblox-autojoin/pkg/account"
+    "github.com/trgphuc/roblox-autojoin/pkg/roblox"
     "github.com/fatih/color"
     "github.com/spf13/cobra"
 )
